@@ -1,0 +1,1430 @@
+{
+    "2021": {
+      "Trimestre1": [
+        {
+          "nombre": "Joan",
+          "apellidos": "Gomez",
+          "telefono": "623548532",
+          "direccion": {
+            "calle": "Calle Diagonal",
+            "ciudad": "Barcelona",
+            "codigo_postal": "08001",
+            "provincia": "Barcelona"
+          },
+          "correo_electronico": "joan@gmail.com",
+          "fecha_inclusion": "2020-01-01",
+          "pedidos": [
+            {
+              "numero_pedido": 1,
+              "fecha_compra": "2021-01-02",
+              "fecha_entrega": "2021-01-10",
+              "total_factura": 150.00,
+              "productos": [
+                {
+                  "nombre_producto": "Zapatillas",
+                  "referencia": "P1-123",
+                  "precio": 50.00,
+                  "unidades": 3
+                }
+              ]
+            },
+            {
+                "numero_pedido": 2,
+                "fecha_compra": "2021-01-03",
+                "fecha_entrega": "2021-01-12",
+                "total_factura": 50.00,
+                "productos": [
+                  {
+                    "nombre_producto": "Camiseta",
+                    "referencia": "P1-123",
+                    "precio": 50.00,
+                    "unidades": 1
+                  }
+                ]
+              },
+              {
+                "numero_pedido": 3,
+                "fecha_compra": "2021-01-04",
+                "fecha_entrega": "2021-01-13",
+                "total_factura": 200.00,
+                "productos": [
+                  {
+                    "nombre_producto": "Pantalón",
+                    "referencia": "P1-123",
+                    "precio": 50.00,
+                    "unidades": 4
+                  }
+                ]
+              },
+              {
+                "numero_pedido": 4,
+                "fecha_compra": "2021-01-04",
+                "fecha_entrega": "2021-01-13",
+                "total_factura": 10.00,
+                "productos": [
+                  {
+                    "nombre_producto": "Calcetines",
+                    "referencia": "P1-123",
+                    "precio": 50.00,
+                    "unidades": 2
+                  }
+                ]
+              },
+              {
+                "numero_pedido": 5,
+                "fecha_compra": "2021-01-05",
+                "fecha_entrega": "2021-01-14",
+                "total_factura": 100.00,
+                "productos": [
+                  {
+                    "nombre_producto": "Gorro",
+                    "referencia": "P1-123",
+                    "precio": 50.00,
+                    "unidades": 2
+                  }
+                  
+                ]
+              }
+            
+          ]
+        },
+        {
+            "nombre": "Diana",
+            "apellidos": "Ruíz",
+            "telefono": "668452135",
+            "direccion": {
+              "calle": "Calle Alfileritos",
+              "ciudad": "Toledo",
+              "codigo_postal": "45001",
+              "provincia": "Toledo"
+            },
+            "correo_electronico": "Diana@gmail.com",
+            "fecha_inclusion": "2019-01-01",
+            "pedidos": [
+              {
+                "numero_pedido": 1,
+                "fecha_compra": "2021-01-02",
+                "fecha_entrega": "2021-01-10",
+                "total_factura": 150.00,
+                "productos": [
+                  {
+                    "nombre_producto": "Zapatillas",
+                    "referencia": "P1-123",
+                    "precio": 50.00,
+                    "unidades": 3
+                  }
+                ]
+              },
+              {
+                  "numero_pedido": 2,
+                  "fecha_compra": "2021-01-03",
+                  "fecha_entrega": "2021-01-12",
+                  "total_factura": 50.00,
+                  "productos": [
+                    {
+                      "nombre_producto": "Camiseta",
+                      "referencia": "P1-123",
+                      "precio": 50.00,
+                      "unidades": 1
+                    }
+                  ]
+                },
+                {
+                  "numero_pedido": 3,
+                  "fecha_compra": "2021-01-04",
+                  "fecha_entrega": "2021-01-13",
+                  "total_factura": 200.00,
+                  "productos": [
+                    {
+                      "nombre_producto": "Pantalón",
+                      "referencia": "P1-123",
+                      "precio": 50.00,
+                      "unidades": 4
+                    }
+                  ]
+                },
+                {
+                  "numero_pedido": 4,
+                  "fecha_compra": "2021-01-04",
+                  "fecha_entrega": "2021-01-13",
+                  "total_factura": 10.00,
+                  "productos": [
+                    {
+                      "nombre_producto": "Calcetines",
+                      "referencia": "P1-123",
+                      "precio": 50.00,
+                      "unidades": 2
+                    }
+                  ]
+                },
+                {
+                  "numero_pedido": 5,
+                  "fecha_compra": "2021-01-05",
+                  "fecha_entrega": "2021-01-14",
+                  "total_factura": 100.00,
+                  "productos": [
+                    {
+                      "nombre_producto": "Gorro",
+                      "referencia": "P1-123",
+                      "precio": 50.00,
+                      "unidades": 2
+                    }
+                    
+                  ]
+                }
+              
+            ]
+          }
+        
+      ],
+      
+
+
+        "Trimestre2": [
+          {
+            "nombre": "Joan",
+            "apellidos": "Gomez",
+            "telefono": "623548532",
+            "direccion": {
+              "calle": "Calle Diagonal",
+              "ciudad": "Barcelona",
+              "codigo_postal": "08001",
+              "provincia": "Barcelona"
+            },
+            "correo_electronico": "joan@gmail.com",
+            "fecha_inclusion": "2020-01-01",
+            "pedidos": [
+              {
+                "numero_pedido": 1,
+                "fecha_compra": "2021-04-02",
+                "fecha_entrega": "2021-04-10",
+                "total_factura": 150.00,
+                "productos": [
+                  {
+                    "nombre_producto": "Zapatillas",
+                    "referencia": "P1-123",
+                    "precio": 50.00,
+                    "unidades": 3
+                  }
+                ]
+              },
+              {
+                  "numero_pedido": 2,
+                  "fecha_compra": "2021-04-03",
+                  "fecha_entrega": "2021-04-12",
+                  "total_factura": 50.00,
+                  "productos": [
+                    {
+                      "nombre_producto": "Camiseta",
+                      "referencia": "P1-123",
+                      "precio": 50.00,
+                      "unidades": 1
+                    }
+                  ]
+                },
+                {
+                  "numero_pedido": 3,
+                  "fecha_compra": "2021-04-04",
+                  "fecha_entrega": "2021-04-13",
+                  "total_factura": 200.00,
+                  "productos": [
+                    {
+                      "nombre_producto": "Pantalón",
+                      "referencia": "P1-123",
+                      "precio": 50.00,
+                      "unidades": 4
+                    }
+                  ]
+                },
+                {
+                  "numero_pedido": 4,
+                  "fecha_compra": "2021-04-04",
+                  "fecha_entrega": "2021-04-13",
+                  "total_factura": 10.00,
+                  "productos": [
+                    {
+                      "nombre_producto": "Calcetines",
+                      "referencia": "P1-123",
+                      "precio": 50.00,
+                      "unidades": 2
+                    }
+                  ]
+                },
+                {
+                  "numero_pedido": 5,
+                  "fecha_compra": "2021-04-05",
+                  "fecha_entrega": "2021-04-14",
+                  "total_factura": 100.00,
+                  "productos": [
+                    {
+                      "nombre_producto": "Gorro",
+                      "referencia": "P1-123",
+                      "precio": 50.00,
+                      "unidades": 2
+                    }
+                    
+                  ]
+                }
+              
+            ]
+          },
+          {
+              "nombre": "Diana",
+              "apellidos": "Ruíz",
+              "telefono": "668452135",
+              "direccion": {
+                "calle": "Calle Alfileritos",
+                "ciudad": "Toledo",
+                "codigo_postal": "45001",
+                "provincia": "Toledo"
+              },
+              "correo_electronico": "Diana@gmail.com",
+              "fecha_inclusion": "2019-01-01",
+              "pedidos": [
+                {
+                  "numero_pedido": 1,
+                  "fecha_compra": "2021-04-02",
+                  "fecha_entrega": "2021-04-10",
+                  "total_factura": 150.00,
+                  "productos": [
+                    {
+                      "nombre_producto": "Zapatillas",
+                      "referencia": "P1-123",
+                      "precio": 50.00,
+                      "unidades": 3
+                    }
+                  ]
+                },
+                {
+                    "numero_pedido": 2,
+                    "fecha_compra": "2021-04-03",
+                    "fecha_entrega": "2021-04-12",
+                    "total_factura": 50.00,
+                    "productos": [
+                      {
+                        "nombre_producto": "Camiseta",
+                        "referencia": "P1-123",
+                        "precio": 50.00,
+                        "unidades": 1
+                      }
+                    ]
+                  },
+                  {
+                    "numero_pedido": 3,
+                    "fecha_compra": "2021-04-04",
+                    "fecha_entrega": "2021-04-13",
+                    "total_factura": 200.00,
+                    "productos": [
+                      {
+                        "nombre_producto": "Pantalón",
+                        "referencia": "P1-123",
+                        "precio": 50.00,
+                        "unidades": 4
+                      }
+                    ]
+                  },
+                  {
+                    "numero_pedido": 4,
+                    "fecha_compra": "2021-04-04",
+                    "fecha_entrega": "2021-04-13",
+                    "total_factura": 10.00,
+                    "productos": [
+                      {
+                        "nombre_producto": "Calcetines",
+                        "referencia": "P1-123",
+                        "precio": 50.00,
+                        "unidades": 2
+                      }
+                    ]
+                  },
+                  {
+                    "numero_pedido": 5,
+                    "fecha_compra": "2021-04-05",
+                    "fecha_entrega": "2021-04-14",
+                    "total_factura": 100.00,
+                    "productos": [
+                      {
+                        "nombre_producto": "Gorro",
+                        "referencia": "P1-123",
+                        "precio": 50.00,
+                        "unidades": 2
+                      }
+                      
+                    ]
+                  }
+                
+              ]
+            }
+          
+        ],
+        "Trimestre3": [
+            {
+              "nombre": "Joan",
+              "apellidos": "Gomez",
+              "telefono": "623548532",
+              "direccion": {
+                "calle": "Calle Diagonal",
+                "ciudad": "Barcelona",
+                "codigo_postal": "08001",
+                "provincia": "Barcelona"
+              },
+              "correo_electronico": "joan@gmail.com",
+              "fecha_inclusion": "2020-01-01",
+              "pedidos": [
+                {
+                  "numero_pedido": 1,
+                  "fecha_compra": "2021-07-02",
+                  "fecha_entrega": "2021-07-10",
+                  "total_factura": 150.00,
+                  "productos": [
+                    {
+                      "nombre_producto": "Zapatillas",
+                      "referencia": "P1-123",
+                      "precio": 50.00,
+                      "unidades": 3
+                    }
+                  ]
+                },
+                {
+                    "numero_pedido": 2,
+                    "fecha_compra": "2021-07-03",
+                    "fecha_entrega": "2021-07-12",
+                    "total_factura": 50.00,
+                    "productos": [
+                      {
+                        "nombre_producto": "Camiseta",
+                        "referencia": "P1-123",
+                        "precio": 50.00,
+                        "unidades": 1
+                      }
+                    ]
+                  },
+                  {
+                    "numero_pedido": 3,
+                    "fecha_compra": "2021-07-04",
+                    "fecha_entrega": "2021-07-13",
+                    "total_factura": 200.00,
+                    "productos": [
+                      {
+                        "nombre_producto": "Pantalón",
+                        "referencia": "P1-123",
+                        "precio": 50.00,
+                        "unidades": 4
+                      }
+                    ]
+                  },
+                  {
+                    "numero_pedido": 4,
+                    "fecha_compra": "2021-07-04",
+                    "fecha_entrega": "2021-07-13",
+                    "total_factura": 10.00,
+                    "productos": [
+                      {
+                        "nombre_producto": "Calcetines",
+                        "referencia": "P1-123",
+                        "precio": 50.00,
+                        "unidades": 2
+                      }
+                    ]
+                  },
+                  {
+                    "numero_pedido": 5,
+                    "fecha_compra": "2021-07-05",
+                    "fecha_entrega": "2021-07-14",
+                    "total_factura": 100.00,
+                    "productos": [
+                      {
+                        "nombre_producto": "Gorro",
+                        "referencia": "P1-123",
+                        "precio": 50.00,
+                        "unidades": 2
+                      }
+                      
+                    ]
+                  }
+                
+              ]
+            },
+            {
+                "nombre": "Diana",
+                "apellidos": "Ruíz",
+                "telefono": "668452135",
+                "direccion": {
+                  "calle": "Calle Alfileritos",
+                  "ciudad": "Toledo",
+                  "codigo_postal": "45001",
+                  "provincia": "Toledo"
+                },
+                "correo_electronico": "Diana@gmail.com",
+                "fecha_inclusion": "2019-01-01",
+                "pedidos": [
+                  {
+                    "numero_pedido": 1,
+                    "fecha_compra": "2021-07-02",
+                    "fecha_entrega": "2021-07-10",
+                    "total_factura": 150.00,
+                    "productos": [
+                      {
+                        "nombre_producto": "Zapatillas",
+                        "referencia": "P1-123",
+                        "precio": 50.00,
+                        "unidades": 3
+                      }
+                    ]
+                  },
+                  {
+                      "numero_pedido": 2,
+                      "fecha_compra": "2021-07-03",
+                      "fecha_entrega": "2021-07-12",
+                      "total_factura": 50.00,
+                      "productos": [
+                        {
+                          "nombre_producto": "Camiseta",
+                          "referencia": "P1-123",
+                          "precio": 50.00,
+                          "unidades": 1
+                        }
+                      ]
+                    },
+                    {
+                      "numero_pedido": 3,
+                      "fecha_compra": "2021-07-04",
+                      "fecha_entrega": "2021-07-13",
+                      "total_factura": 200.00,
+                      "productos": [
+                        {
+                          "nombre_producto": "Pantalón",
+                          "referencia": "P1-123",
+                          "precio": 50.00,
+                          "unidades": 4
+                        }
+                      ]
+                    },
+                    {
+                      "numero_pedido": 4,
+                      "fecha_compra": "2021-07-04",
+                      "fecha_entrega": "2021-07-13",
+                      "total_factura": 10.00,
+                      "productos": [
+                        {
+                          "nombre_producto": "Calcetines",
+                          "referencia": "P1-123",
+                          "precio": 50.00,
+                          "unidades": 2
+                        }
+                      ]
+                    },
+                    {
+                      "numero_pedido": 5,
+                      "fecha_compra": "2021-07-05",
+                      "fecha_entrega": "2021-07-14",
+                      "total_factura": 100.00,
+                      "productos": [
+                        {
+                          "nombre_producto": "Gorro",
+                          "referencia": "P1-123",
+                          "precio": 50.00,
+                          "unidades": 2
+                        }
+                        
+                      ]
+                    }
+                  
+                ]
+              }
+            
+          ],
+          "Trimestre4": [
+            {
+              "nombre": "Joan",
+              "apellidos": "Gomez",
+              "telefono": "623548532",
+              "direccion": {
+                "calle": "Calle Diagonal",
+                "ciudad": "Barcelona",
+                "codigo_postal": "08001",
+                "provincia": "Barcelona"
+              },
+              "correo_electronico": "joan@gmail.com",
+              "fecha_inclusion": "2020-01-01",
+              "pedidos": [
+                {
+                  "numero_pedido": 1,
+                  "fecha_compra": "2021-10-02",
+                  "fecha_entrega": "2021-10-10",
+                  "total_factura": 150.00,
+                  "productos": [
+                    {
+                      "nombre_producto": "Zapatillas",
+                      "referencia": "P1-123",
+                      "precio": 50.00,
+                      "unidades": 3
+                    }
+                  ]
+                },
+                {
+                    "numero_pedido": 2,
+                    "fecha_compra": "2021-10-03",
+                    "fecha_entrega": "2021-10-12",
+                    "total_factura": 50.00,
+                    "productos": [
+                      {
+                        "nombre_producto": "Camiseta",
+                        "referencia": "P1-123",
+                        "precio": 50.00,
+                        "unidades": 1
+                      }
+                    ]
+                  },
+                  {
+                    "numero_pedido": 3,
+                    "fecha_compra": "2021-10-04",
+                    "fecha_entrega": "2021-10-13",
+                    "total_factura": 200.00,
+                    "productos": [
+                      {
+                        "nombre_producto": "Pantalón",
+                        "referencia": "P1-123",
+                        "precio": 50.00,
+                        "unidades": 4
+                      }
+                    ]
+                  },
+                  {
+                    "numero_pedido": 4,
+                    "fecha_compra": "2021-10-04",
+                    "fecha_entrega": "2021-10-13",
+                    "total_factura": 10.00,
+                    "productos": [
+                      {
+                        "nombre_producto": "Calcetines",
+                        "referencia": "P1-123",
+                        "precio": 50.00,
+                        "unidades": 2
+                      }
+                    ]
+                  },
+                  {
+                    "numero_pedido": 5,
+                    "fecha_compra": "2021-10-05",
+                    "fecha_entrega": "2021-10-14",
+                    "total_factura": 100.00,
+                    "productos": [
+                      {
+                        "nombre_producto": "Gorro",
+                        "referencia": "P1-123",
+                        "precio": 50.00,
+                        "unidades": 2
+                      }
+                      
+                    ]
+                  }
+                
+              ]
+            },
+            {
+                "nombre": "Diana",
+                "apellidos": "Ruíz",
+                "telefono": "668452135",
+                "direccion": {
+                  "calle": "Calle Alfileritos",
+                  "ciudad": "Toledo",
+                  "codigo_postal": "45001",
+                  "provincia": "Toledo"
+                },
+                "correo_electronico": "Diana@gmail.com",
+                "fecha_inclusion": "2019-01-01",
+                "pedidos": [
+                  {
+                    "numero_pedido": 1,
+                    "fecha_compra": "2021-10-02",
+                    "fecha_entrega": "2021-10-10",
+                    "total_factura": 150.00,
+                    "productos": [
+                      {
+                        "nombre_producto": "Zapatillas",
+                        "referencia": "P1-123",
+                        "precio": 50.00,
+                        "unidades": 3
+                      }
+                    ]
+                  },
+                  {
+                      "numero_pedido": 2,
+                      "fecha_compra": "2021-10-03",
+                      "fecha_entrega": "2021-10-12",
+                      "total_factura": 50.00,
+                      "productos": [
+                        {
+                          "nombre_producto": "Camiseta",
+                          "referencia": "P1-123",
+                          "precio": 50.00,
+                          "unidades": 1
+                        }
+                      ]
+                    },
+                    {
+                      "numero_pedido": 3,
+                      "fecha_compra": "2021-10-04",
+                      "fecha_entrega": "2021-10-13",
+                      "total_factura": 200.00,
+                      "productos": [
+                        {
+                          "nombre_producto": "Pantalón",
+                          "referencia": "P1-123",
+                          "precio": 50.00,
+                          "unidades": 4
+                        }
+                      ]
+                    },
+                    {
+                      "numero_pedido": 4,
+                      "fecha_compra": "2021-10-04",
+                      "fecha_entrega": "2021-10-13",
+                      "total_factura": 10.00,
+                      "productos": [
+                        {
+                          "nombre_producto": "Calcetines",
+                          "referencia": "P1-123",
+                          "precio": 50.00,
+                          "unidades": 2
+                        }
+                      ]
+                    },
+                    {
+                      "numero_pedido": 5,
+                      "fecha_compra": "2021-10-05",
+                      "fecha_entrega": "2021-10-14",
+                      "total_factura": 100.00,
+                      "productos": [
+                        {
+                          "nombre_producto": "Gorro",
+                          "referencia": "P1-123",
+                          "precio": 50.00,
+                          "unidades": 2
+                        }
+                    
+                      ]
+                    }
+                  
+                ]
+            }
+            
+        ]
+        
+    },
+    "2022": {
+        "Trimestre1": [
+          {
+            "nombre": "Joan",
+            "apellidos": "Gomez",
+            "telefono": "623548532",
+            "direccion": {
+              "calle": "Calle Diagonal",
+              "ciudad": "Barcelona",
+              "codigo_postal": "08001",
+              "provincia": "Barcelona"
+            },
+            "correo_electronico": "joan@gmail.com",
+            "fecha_inclusion": "2020-01-01",
+            "pedidos": [
+              {
+                "numero_pedido": 1,
+                "fecha_compra": "2022-01-02",
+                "fecha_entrega": "2022-01-10",
+                "total_factura": 150.00,
+                "productos": [
+                  {
+                    "nombre_producto": "Zapatillas",
+                    "referencia": "P1-123",
+                    "precio": 50.00,
+                    "unidades": 3
+                  }
+                ]
+              },
+              {
+                  "numero_pedido": 2,
+                  "fecha_compra": "2022-01-03",
+                  "fecha_entrega": "2022-01-12",
+                  "total_factura": 50.00,
+                  "productos": [
+                    {
+                      "nombre_producto": "Camiseta",
+                      "referencia": "P1-123",
+                      "precio": 50.00,
+                      "unidades": 1
+                    }
+                  ]
+                },
+                {
+                  "numero_pedido": 3,
+                  "fecha_compra": "2022-01-04",
+                  "fecha_entrega": "2022-01-13",
+                  "total_factura": 200.00,
+                  "productos": [
+                    {
+                      "nombre_producto": "Pantalón",
+                      "referencia": "P1-123",
+                      "precio": 50.00,
+                      "unidades": 4
+                    }
+                  ]
+                },
+                {
+                  "numero_pedido": 4,
+                  "fecha_compra": "2022-01-04",
+                  "fecha_entrega": "2022-01-13",
+                  "total_factura": 10.00,
+                  "productos": [
+                    {
+                      "nombre_producto": "Calcetines",
+                      "referencia": "P1-123",
+                      "precio": 50.00,
+                      "unidades": 2
+                    }
+                  ]
+                },
+                {
+                  "numero_pedido": 5,
+                  "fecha_compra": "2022-01-05",
+                  "fecha_entrega": "2022-01-14",
+                  "total_factura": 100.00,
+                  "productos": [
+                    {
+                      "nombre_producto": "Gorro",
+                      "referencia": "P1-123",
+                      "precio": 50.00,
+                      "unidades": 2
+                    }
+                    
+                  ]
+                }
+              
+            ]
+          },
+          {
+              "nombre": "Diana",
+              "apellidos": "Ruíz",
+              "telefono": "668452135",
+              "direccion": {
+                "calle": "Calle Alfileritos",
+                "ciudad": "Toledo",
+                "codigo_postal": "45001",
+                "provincia": "Toledo"
+              },
+              "correo_electronico": "Diana@gmail.com",
+              "fecha_inclusion": "2019-01-01",
+              "pedidos": [
+                {
+                  "numero_pedido": 1,
+                  "fecha_compra": "2022-01-02",
+                  "fecha_entrega": "2022-01-10",
+                  "total_factura": 150.00,
+                  "productos": [
+                    {
+                      "nombre_producto": "Zapatillas",
+                      "referencia": "P1-123",
+                      "precio": 50.00,
+                      "unidades": 3
+                    }
+                  ]
+                },
+                {
+                    "numero_pedido": 2,
+                    "fecha_compra": "2022-01-03",
+                    "fecha_entrega": "2022-01-12",
+                    "total_factura": 50.00,
+                    "productos": [
+                      {
+                        "nombre_producto": "Camiseta",
+                        "referencia": "P1-123",
+                        "precio": 50.00,
+                        "unidades": 1
+                      }
+                    ]
+                  },
+                  {
+                    "numero_pedido": 3,
+                    "fecha_compra": "2022-01-04",
+                    "fecha_entrega": "2022-01-13",
+                    "total_factura": 200.00,
+                    "productos": [
+                      {
+                        "nombre_producto": "Pantalón",
+                        "referencia": "P1-123",
+                        "precio": 50.00,
+                        "unidades": 4
+                      }
+                    ]
+                  },
+                  {
+                    "numero_pedido": 4,
+                    "fecha_compra": "2022-01-04",
+                    "fecha_entrega": "2022-01-13",
+                    "total_factura": 10.00,
+                    "productos": [
+                      {
+                        "nombre_producto": "Calcetines",
+                        "referencia": "P1-123",
+                        "precio": 50.00,
+                        "unidades": 2
+                      }
+                    ]
+                  },
+                  {
+                    "numero_pedido": 5,
+                    "fecha_compra": "2022-01-05",
+                    "fecha_entrega": "2022-01-14",
+                    "total_factura": 100.00,
+                    "productos": [
+                      {
+                        "nombre_producto": "Gorro",
+                        "referencia": "P1-123",
+                        "precio": 50.00,
+                        "unidades": 2
+                      }
+                      
+                    ]
+                  }
+                
+              ]
+            }
+          
+        ],
+        
+  
+  
+          "Trimestre2": [
+            {
+              "nombre": "Joan",
+              "apellidos": "Gomez",
+              "telefono": "623548532",
+              "direccion": {
+                "calle": "Calle Diagonal",
+                "ciudad": "Barcelona",
+                "codigo_postal": "08001",
+                "provincia": "Barcelona"
+              },
+              "correo_electronico": "joan@gmail.com",
+              "fecha_inclusion": "2020-01-01",
+              "pedidos": [
+                {
+                  "numero_pedido": 1,
+                  "fecha_compra": "2022-04-02",
+                  "fecha_entrega": "2022-04-10",
+                  "total_factura": 150.00,
+                  "productos": [
+                    {
+                      "nombre_producto": "Zapatillas",
+                      "referencia": "P1-123",
+                      "precio": 50.00,
+                      "unidades": 3
+                    }
+                  ]
+                },
+                {
+                    "numero_pedido": 2,
+                    "fecha_compra": "2022-04-03",
+                    "fecha_entrega": "2022-04-12",
+                    "total_factura": 50.00,
+                    "productos": [
+                      {
+                        "nombre_producto": "Camiseta",
+                        "referencia": "P1-123",
+                        "precio": 50.00,
+                        "unidades": 1
+                      }
+                    ]
+                  },
+                  {
+                    "numero_pedido": 3,
+                    "fecha_compra": "2022-04-04",
+                    "fecha_entrega": "2022-04-13",
+                    "total_factura": 200.00,
+                    "productos": [
+                      {
+                        "nombre_producto": "Pantalón",
+                        "referencia": "P1-123",
+                        "precio": 50.00,
+                        "unidades": 4
+                      }
+                    ]
+                  },
+                  {
+                    "numero_pedido": 4,
+                    "fecha_compra": "2022-04-04",
+                    "fecha_entrega": "2022-04-13",
+                    "total_factura": 10.00,
+                    "productos": [
+                      {
+                        "nombre_producto": "Calcetines",
+                        "referencia": "P1-123",
+                        "precio": 50.00,
+                        "unidades": 2
+                      }
+                    ]
+                  },
+                  {
+                    "numero_pedido": 5,
+                    "fecha_compra": "2022-04-05",
+                    "fecha_entrega": "2022-04-14",
+                    "total_factura": 100.00,
+                    "productos": [
+                      {
+                        "nombre_producto": "Gorro",
+                        "referencia": "P1-123",
+                        "precio": 50.00,
+                        "unidades": 2
+                      }
+                      
+                    ]
+                  }
+                
+              ]
+            },
+            {
+                "nombre": "Diana",
+                "apellidos": "Ruíz",
+                "telefono": "668452135",
+                "direccion": {
+                  "calle": "Calle Alfileritos",
+                  "ciudad": "Toledo",
+                  "codigo_postal": "45001",
+                  "provincia": "Toledo"
+                },
+                "correo_electronico": "Diana@gmail.com",
+                "fecha_inclusion": "2019-01-01",
+                "pedidos": [
+                  {
+                    "numero_pedido": 1,
+                    "fecha_compra": "2022-04-02",
+                    "fecha_entrega": "2022-04-10",
+                    "total_factura": 150.00,
+                    "productos": [
+                      {
+                        "nombre_producto": "Zapatillas",
+                        "referencia": "P1-123",
+                        "precio": 50.00,
+                        "unidades": 3
+                      }
+                    ]
+                  },
+                  {
+                      "numero_pedido": 2,
+                      "fecha_compra": "2022-04-03",
+                      "fecha_entrega": "2022-04-12",
+                      "total_factura": 50.00,
+                      "productos": [
+                        {
+                          "nombre_producto": "Camiseta",
+                          "referencia": "P1-123",
+                          "precio": 50.00,
+                          "unidades": 1
+                        }
+                      ]
+                    },
+                    {
+                      "numero_pedido": 3,
+                      "fecha_compra": "2022-04-04",
+                      "fecha_entrega": "2022-04-13",
+                      "total_factura": 200.00,
+                      "productos": [
+                        {
+                          "nombre_producto": "Pantalón",
+                          "referencia": "P1-123",
+                          "precio": 50.00,
+                          "unidades": 4
+                        }
+                      ]
+                    },
+                    {
+                      "numero_pedido": 4,
+                      "fecha_compra": "2022-04-04",
+                      "fecha_entrega": "2022-04-13",
+                      "total_factura": 10.00,
+                      "productos": [
+                        {
+                          "nombre_producto": "Calcetines",
+                          "referencia": "P1-123",
+                          "precio": 50.00,
+                          "unidades": 2
+                        }
+                      ]
+                    },
+                    {
+                      "numero_pedido": 5,
+                      "fecha_compra": "2022-04-05",
+                      "fecha_entrega": "2022-04-14",
+                      "total_factura": 100.00,
+                      "productos": [
+                        {
+                          "nombre_producto": "Gorro",
+                          "referencia": "P1-123",
+                          "precio": 50.00,
+                          "unidades": 2
+                        }
+                        
+                      ]
+                    }
+                  
+                ]
+              }
+            
+          ],
+          "Trimestre3": [
+              {
+                "nombre": "Joan",
+                "apellidos": "Gomez",
+                "telefono": "623548532",
+                "direccion": {
+                  "calle": "Calle Diagonal",
+                  "ciudad": "Barcelona",
+                  "codigo_postal": "08001",
+                  "provincia": "Barcelona"
+                },
+                "correo_electronico": "joan@gmail.com",
+                "fecha_inclusion": "2020-01-01",
+                "pedidos": [
+                  {
+                    "numero_pedido": 1,
+                    "fecha_compra": "2022-07-02",
+                    "fecha_entrega": "2022-07-10",
+                    "total_factura": 150.00,
+                    "productos": [
+                      {
+                        "nombre_producto": "Zapatillas",
+                        "referencia": "P1-123",
+                        "precio": 50.00,
+                        "unidades": 3
+                      }
+                    ]
+                  },
+                  {
+                      "numero_pedido": 2,
+                      "fecha_compra": "2022-07-03",
+                      "fecha_entrega": "2022-07-12",
+                      "total_factura": 50.00,
+                      "productos": [
+                        {
+                          "nombre_producto": "Camiseta",
+                          "referencia": "P1-123",
+                          "precio": 50.00,
+                          "unidades": 1
+                        }
+                      ]
+                    },
+                    {
+                      "numero_pedido": 3,
+                      "fecha_compra": "2022-07-04",
+                      "fecha_entrega": "2022-07-13",
+                      "total_factura": 200.00,
+                      "productos": [
+                        {
+                          "nombre_producto": "Pantalón",
+                          "referencia": "P1-123",
+                          "precio": 50.00,
+                          "unidades": 4
+                        }
+                      ]
+                    },
+                    {
+                      "numero_pedido": 4,
+                      "fecha_compra": "2022-07-04",
+                      "fecha_entrega": "2022-07-13",
+                      "total_factura": 10.00,
+                      "productos": [
+                        {
+                          "nombre_producto": "Calcetines",
+                          "referencia": "P1-123",
+                          "precio": 50.00,
+                          "unidades": 2
+                        }
+                      ]
+                    },
+                    {
+                      "numero_pedido": 5,
+                      "fecha_compra": "2022-07-05",
+                      "fecha_entrega": "2022-07-14",
+                      "total_factura": 100.00,
+                      "productos": [
+                        {
+                          "nombre_producto": "Gorro",
+                          "referencia": "P1-123",
+                          "precio": 50.00,
+                          "unidades": 2
+                        }
+                        
+                      ]
+                    }
+                  
+                ]
+              },
+              {
+                  "nombre": "Diana",
+                  "apellidos": "Ruíz",
+                  "telefono": "668452135",
+                  "direccion": {
+                    "calle": "Calle Alfileritos",
+                    "ciudad": "Toledo",
+                    "codigo_postal": "45001",
+                    "provincia": "Toledo"
+                  },
+                  "correo_electronico": "Diana@gmail.com",
+                  "fecha_inclusion": "2019-01-01",
+                  "pedidos": [
+                    {
+                      "numero_pedido": 1,
+                      "fecha_compra": "2022-07-02",
+                      "fecha_entrega": "2022-07-10",
+                      "total_factura": 150.00,
+                      "productos": [
+                        {
+                          "nombre_producto": "Zapatillas",
+                          "referencia": "P1-123",
+                          "precio": 50.00,
+                          "unidades": 3
+                        }
+                      ]
+                    },
+                    {
+                        "numero_pedido": 2,
+                        "fecha_compra": "2022-07-03",
+                        "fecha_entrega": "2022-07-12",
+                        "total_factura": 50.00,
+                        "productos": [
+                          {
+                            "nombre_producto": "Camiseta",
+                            "referencia": "P1-123",
+                            "precio": 50.00,
+                            "unidades": 1
+                          }
+                        ]
+                      },
+                      {
+                        "numero_pedido": 3,
+                        "fecha_compra": "2022-07-04",
+                        "fecha_entrega": "2022-07-13",
+                        "total_factura": 200.00,
+                        "productos": [
+                          {
+                            "nombre_producto": "Pantalón",
+                            "referencia": "P1-123",
+                            "precio": 50.00,
+                            "unidades": 4
+                          }
+                        ]
+                      },
+                      {
+                        "numero_pedido": 4,
+                        "fecha_compra": "2022-07-04",
+                        "fecha_entrega": "2022-07-13",
+                        "total_factura": 10.00,
+                        "productos": [
+                          {
+                            "nombre_producto": "Calcetines",
+                            "referencia": "P1-123",
+                            "precio": 50.00,
+                            "unidades": 2
+                          }
+                        ]
+                      },
+                      {
+                        "numero_pedido": 5,
+                        "fecha_compra": "2022-07-05",
+                        "fecha_entrega": "2022-07-14",
+                        "total_factura": 100.00,
+                        "productos": [
+                          {
+                            "nombre_producto": "Gorro",
+                            "referencia": "P1-123",
+                            "precio": 50.00,
+                            "unidades": 2
+                          }
+                          
+                        ]
+                      }
+                    
+                  ]
+                }
+              
+            ],
+            "Trimestre4": [
+              {
+                "nombre": "Joan",
+                "apellidos": "Gomez",
+                "telefono": "623548532",
+                "direccion": {
+                  "calle": "Calle Diagonal",
+                  "ciudad": "Barcelona",
+                  "codigo_postal": "08001",
+                  "provincia": "Barcelona"
+                },
+                "correo_electronico": "joan@gmail.com",
+                "fecha_inclusion": "2020-01-01",
+                "pedidos": [
+                  {
+                    "numero_pedido": 1,
+                    "fecha_compra": "2022-10-02",
+                    "fecha_entrega": "2022-10-10",
+                    "total_factura": 150.00,
+                    "productos": [
+                      {
+                        "nombre_producto": "Zapatillas",
+                        "referencia": "P1-123",
+                        "precio": 50.00,
+                        "unidades": 3
+                      }
+                    ]
+                  },
+                  {
+                      "numero_pedido": 2,
+                      "fecha_compra": "2022-10-03",
+                      "fecha_entrega": "2022-10-12",
+                      "total_factura": 50.00,
+                      "productos": [
+                        {
+                          "nombre_producto": "Camiseta",
+                          "referencia": "P1-123",
+                          "precio": 50.00,
+                          "unidades": 1
+                        }
+                      ]
+                    },
+                    {
+                      "numero_pedido": 3,
+                      "fecha_compra": "2022-10-04",
+                      "fecha_entrega": "2022-10-13",
+                      "total_factura": 200.00,
+                      "productos": [
+                        {
+                          "nombre_producto": "Pantalón",
+                          "referencia": "P1-123",
+                          "precio": 50.00,
+                          "unidades": 4
+                        }
+                      ]
+                    },
+                    {
+                      "numero_pedido": 4,
+                      "fecha_compra": "2022-10-04",
+                      "fecha_entrega": "2022-10-13",
+                      "total_factura": 10.00,
+                      "productos": [
+                        {
+                          "nombre_producto": "Calcetines",
+                          "referencia": "P1-123",
+                          "precio": 50.00,
+                          "unidades": 2
+                        }
+                      ]
+                    },
+                    {
+                      "numero_pedido": 5,
+                      "fecha_compra": "2022-10-05",
+                      "fecha_entrega": "2022-10-14",
+                      "total_factura": 100.00,
+                      "productos": [
+                        {
+                          "nombre_producto": "Gorro",
+                          "referencia": "P1-123",
+                          "precio": 50.00,
+                          "unidades": 2
+                        }
+                        
+                      ]
+                    }
+                  
+                ]
+              },
+              {
+                  "nombre": "Diana",
+                  "apellidos": "Ruíz",
+                  "telefono": "668452135",
+                  "direccion": {
+                    "calle": "Calle Alfileritos",
+                    "ciudad": "Toledo",
+                    "codigo_postal": "45001",
+                    "provincia": "Toledo"
+                  },
+                  "correo_electronico": "Diana@gmail.com",
+                  "fecha_inclusion": "2019-01-01",
+                  "pedidos": [
+                    {
+                      "numero_pedido": 1,
+                      "fecha_compra": "2022-10-02",
+                      "fecha_entrega": "2022-10-10",
+                      "total_factura": 150.00,
+                      "productos": [
+                        {
+                          "nombre_producto": "Zapatillas",
+                          "referencia": "P1-123",
+                          "precio": 50.00,
+                          "unidades": 3
+                        }
+                      ]
+                    },
+                    {
+                        "numero_pedido": 2,
+                        "fecha_compra": "2022-10-03",
+                        "fecha_entrega": "2022-10-12",
+                        "total_factura": 50.00,
+                        "productos": [
+                          {
+                            "nombre_producto": "Camiseta",
+                            "referencia": "P1-123",
+                            "precio": 50.00,
+                            "unidades": 1
+                          }
+                        ]
+                      },
+                      {
+                        "numero_pedido": 3,
+                        "fecha_compra": "2022-10-04",
+                        "fecha_entrega": "2022-10-13",
+                        "total_factura": 200.00,
+                        "productos": [
+                          {
+                            "nombre_producto": "Pantalón",
+                            "referencia": "P1-123",
+                            "precio": 50.00,
+                            "unidades": 4
+                          }
+                        ]
+                      },
+                      {
+                        "numero_pedido": 4,
+                        "fecha_compra": "2022-10-04",
+                        "fecha_entrega": "2022-10-13",
+                        "total_factura": 10.00,
+                        "productos": [
+                          {
+                            "nombre_producto": "Calcetines",
+                            "referencia": "P1-123",
+                            "precio": 50.00,
+                            "unidades": 2
+                          }
+                        ]
+                      },
+                      {
+                        "numero_pedido": 5,
+                        "fecha_compra": "2022-10-05",
+                        "fecha_entrega": "2022-10-14",
+                        "total_factura": 100.00,
+                        "productos": [
+                          {
+                            "nombre_producto": "Gorro",
+                            "referencia": "P1-123",
+                            "precio": 50.00,
+                            "unidades": 2
+                          }
+                      
+                        ]
+                      }
+                    
+                  ]
+              }
+              
+          ]
+          
+      }
+  }
