@@ -2,9 +2,7 @@ fetch('producto.json')
     .then(response => response.json())
     .then(data => {
         const pedidoTable = document.getElementById('productosVendidosTable');
-        // Muestra productos de Trimestre 1 de 2020
         mostrarProductos(data[2021]['Trimestre1'], pedidoTable);
-        // Muestra productos de Trimestre 4 de 2021
         mostrarProductos(data[2022]['Trimestre4'], pedidoTable);
     })
     .catch(error => console.error('Error:', error));

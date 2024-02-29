@@ -1,0 +1,28 @@
+/* Estilos generales para las tablas */
+body {
+    background-color: azure;
+}
+
+h1 {
+    color: rgb(3, 3, 3);
+    font-family: 'Arial', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background-color: #7dc9ec; /* Cambia el color de fondo según tu preferencia */
+    padding: 15px;
+    border-radius: 10px; /* Añade esquinas redondeadas */
+    
+}
+div {
+    border: 2px solid #007bff;
+    margin-bottom: 30px;
+    border-radius: 8px;
+}
+
+td {
+    border: 2px solid #007bff;
+}
+
