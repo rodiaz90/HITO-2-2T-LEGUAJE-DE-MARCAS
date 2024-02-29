@@ -27,9 +27,7 @@ function mostrarFacura(data, table) {
                 row.innerHTML = `
                     <td>${cliente.nombre} ${cliente.apellidos}</td>
                     <td>${pedido.fecha_compra}</td>
-                    <td>${articulo.nombre_producto}</td>
-                    <td>${pedido.fecha_compra}</td>
-                    <td>${articulo.nombre_producto}</td>
+                    <td>${articulo.nombre_producto}</td>    
                     <td>${articulo.unidades}</td>
                     <td>${pedido.total_factura}</td>
                 `;
