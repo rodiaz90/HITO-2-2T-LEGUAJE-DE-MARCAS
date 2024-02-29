@@ -1,7 +1,7 @@
 // Realiza una solicitud para obtener datos del archivo 'clientes.json'.
 fetch('clientes.json')
     .then(response => response.json())  // Convierte la respuesta a formato JSON.
-    .then(data => {
+    .then(async data => {
         // Mostrar información de pedidos
         const pedidoTable = document.getElementById('pedidoTable');
         // Llama a la función mostrarPedidos para cada trimestre y año.
@@ -33,7 +33,7 @@ fetch('clientes.json')
 
 // Función para mostrar detalles de pedidos en una tabla HTML.
 function mostrarPedidos(data, table) {
-    if (data) {
+    if (Array.isArray(data)) {  // Asegúrate de que data sea un Array
         // Itera sobre clientes y pedidos.
         data.forEach(cliente => {
             if (cliente.pedidos) {
@@ -60,7 +60,7 @@ function mostrarPedidos(data, table) {
 
 // Función para mostrar detalles de clientes en una tabla HTML.
 function mostrarClientes(data, table) {
-    if (data) {
+    if (Array.isArray(data)) {  // Asegúrate de que data sea un Array
         // Itera sobre clientes e inserta filas en la tabla con detalles de clientes.
         data.forEach(cliente => {
             const row = table.insertRow();
@@ -77,8 +77,7 @@ function mostrarClientes(data, table) {
 
 // Función para mostrar detalles de factura en una tabla HTML.
 function mostrarFactura(data, table) {
-    // Verifica si hay datos disponibles.
-    if (data) {
+    if (Array.isArray(data)) {  // Asegúrate de que data sea un Array
         // Itera sobre cada pedido en los datos.
         data.forEach(pedido => {
             // Verifica si hay productos en el pedido.
@@ -98,47 +97,46 @@ function mostrarFactura(data, table) {
                         <td>${producto.referencia}</td>
                         <td>${producto.precio}</td>
                         <td>${producto.unidades}</td>
-                    `;
+                    `;  
                 });
             }
         });
     }
 }
 
-
 // Función para mostrar productos vendidos en una tabla HTML.
 function mostrarProductosVendidos(data, table) {
     const tbody = table.querySelector('tbody');
-    if (data) {
+    if (data && typeof data === 'object') {  // Asegúrate de que data sea un objeto
         // Itera sobre años y trimestres para mostrar productos vendidos.
         const trimestres = Object.keys(data);
         trimestres.forEach(año => {
-            Object.values(data[año]).forEach(trimestre => {
-                if (trimestre && trimestre.pedidos) {
-                    trimestre.pedidos.forEach(pedido => {
-                        if (pedido && pedido.productos) {
-                            // Itera sobre productos del pedido.
-                            pedido.productos.forEach(producto => {
-                                const row = document.createElement('tr');
-                                row.innerHTML = `
-                                    <td>${pedido.cliente.nombre} ${pedido.cliente.apellidos}</td>
-                                    <td>${pedido.numero_pedido}</td>
-                                    <td>${pedido.fecha_compra}</td>
-                                    <td>${pedido.fecha_entrega}</td>
-                                    <td>${pedido.total_factura}</td>
-                                    <td>${producto.nombre_producto}</td>
-                                    <td>${producto.referencia}</td>
-                                    <td>${producto.precio}</td>
-                                    <td>${producto.unidades}</td>
-                                `;
-                                tbody.appendChild(row);
-                            });
-                        }
-                    });
-                }
-            });
+            const trimestre = data[año];
+            if (trimestre && trimestre.pedidos) {
+                trimestre.pedidos.forEach(pedido => {
+                    if (pedido && pedido.productos) {
+                        // Itera sobre productos del pedido.
+                        pedido.productos.forEach(producto => {
+                            const row = document.createElement('tr');
+                            row.innerHTML = `
+                                <td>${pedido.cliente.nombre} ${pedido.cliente.apellidos}</td>
+                                <td>${pedido.numero_pedido}</td>
+                                <td>${pedido.fecha_compra}</td>
+                                <td>${pedido.fecha_entrega}</td>
+                                <td>${pedido.total_factura}</td>
+                                <td>${producto.nombre_producto}</td>
+                                <td>${producto.referencia}</td>
+                                <td>${producto.precio}</td>
+                                <td>${producto.unidades}</td>
+                            `;
+                            tbody.appendChild(row);
+                        });
+                    }
+                });
+            }
         });
     }
 }
+
 
 
